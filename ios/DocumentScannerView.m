@@ -28,7 +28,7 @@
     }
 
     if (self.stableCounter > self.detectionCountBeforeCapture){
-        [self capture];
+        // [self capture];
     }
 }
 
